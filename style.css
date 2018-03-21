@@ -79,7 +79,7 @@ h2:hover{
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  background-color: 0000FF	;
+  background-color: white	;
   }
   .left{
     width:100%;
