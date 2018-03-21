@@ -1,73 +1,73 @@
 .main{
   width: 100%;
-  border: 5px solid red;
+  border: 5px solid black;
 display: flex;
 }
 .left{
-  width:25%;
-  border:2px solid #000;
+  width:30%;
+  border:3px solid grey;
   margin:5px 3px 2px 10px;
   padding: 5px 3px 2px 10px;
-  background-color: grey;
+  background-color: #E8E8E8		;
 }
 .left img{
-  width:70px;
+  width:200px;
   border-radius: 50%;
-  border:3px solid green;
- box-shadow:black;
+  border:8px solid black;
+ box-shadow:10px;
 }
 .right{
   width:70%;
-  border: 2px solid blue;
-  margin: 3px;
-  padding: 5px 3px 5px 10px;
-  background-color: white;
+  border: 3px solid grey;
+  margin: 5px 3px 2px 10px;
+  padding: 5px 3px 2px 10px;
+  background-color: #E8E8E8;
 }
 #name{
   color:black;
 }
 h1{
-  color: green;
+  color:black;
 }
 h1:hover{
-  color: pink;
+  color: blue;
 }
 h2{
-  color: black;
+  color:black;
 }
 h2:hover{
-  color: pink;
+  color: blue;
 }
 @media screen only (max-width:480px)
 {
   .main{
     width: 100%;
-    border: 5px solid red;
+    border: 5px solid black;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  background-color: grey;
+  background-color:FF69B4	;
   }
   .left{
-    width:100%;
-    border:2px solid #000;
+    width:30%;
+    border:3px solid #000;
     margin:5px 3px 2px 10px;
     padding: 5px 3px 2px 10px;
-    background-color: grey;
+    background-color: red;
     text-align: center;
   }
   .left img{
-    width:70px;
+    width:200px;
     border-radius: 50%;
-    border:3px solid green;
+    border:8px solid black;
 
   }
   .right{
     width:70%;
-    border: 2px solid blue;
-    margin: 3px;
-    padding: 5px 3px 5px 10px;
-    background-color: white;
+    border: 3px solid black;
+    margin: 5px 3px 2px 10px;
+    padding: 5px 3px 2px 10px;
+    background-color: red;
   }
 
 }
@@ -75,32 +75,32 @@ h2:hover{
 {
   .main{
     width: 100%;
-    border: 5px solid red;
+    border: 5px solid black;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  background-color: grey;
+  background-color: 0000FF	;
   }
   .left{
     width:100%;
-    border:2px solid #000;
+    border:3px solid #000;
     margin:5px 3px 2px 10px;
     padding: 5px 3px 2px 10px;
-    background-color: skyblue;
+    background-color: #E8E8E8		;
     text-align: center;
   }
   .left img{
-    width:70px;
+    width:200px;
     border-radius: 50%;
-    border:3px solid green;
-
+    border:8px solid black;
+box-shadow: grey;
   }
   .right{
-    width:70%;
-    border: 2px solid blue;
-    margin: 3px;
-    padding: 5px 3px 5px 10px;
-    background-color: grey;
+    width:100%;
+    border: 3px solid black;
+    margin: 5px 3px 2px 10px;
+    padding: 5px 3px 2px 10px;
+    background-color: #E8E8E8		;
   }
 
 }

@@ -1,7 +1,7 @@
 {
   "basics":{
     "photo":"download.jpg",
-    "name":"vijaya",
+    "name":"B.Vijaya Lakshmi",
     "email":"boyavijayalakshmi27@gmail.com",
     "mobile":"7735428798"
 },
@@ -10,19 +10,19 @@
     "course":"B.Tech(Computer Science and Engineering)",
     "college":["G.Pullaiah College of Engineering and Technology",
       "2015-2019",
-    "70"]
+    "70%"]
   },
   {
     "course":"Intermediate(MPC)",
-    "college":["Narayana",
+    "college":["Narayana College",
       "2013-2015",
-    "90"]
+    "90%"]
   },
   {
     "course":"SSC",
     "college":["Montessori School",
       "2013",
-    "95"]
+    "95%"]
   }
 ]
   }
