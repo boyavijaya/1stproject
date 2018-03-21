@@ -1,0 +1,28 @@
+{
+  "basics":{
+    "photo":"download.png",
+    "name":"vijaya",
+    "email":"boyavijayalakshmi27@gmail.com",
+    "mobile":"7735428798"
+},
+"education":[
+  {
+    "course":"B.Tech(Computer Science and Engineering)",
+    "college":["G.Pullaiah College of Engineering and Technology",
+      "2015-2019",
+    "70"]
+  },
+  {
+    "course":"Intermediate(MPC)",
+    "college":["Narayana",
+      "2013-2015",
+    "90"]
+  },
+  {
+    "course":"SSC",
+    "college":["MOontessori School",
+      "2013",
+    "95"]
+  }
+]
+  }
